@@ -1,0 +1,4 @@
+baseURL = "https://aviator9.github.io/"
+languageCode = "en-us"
+title = "The Aviator Engineering Blog"
+theme = "hugo-theme-minos"
